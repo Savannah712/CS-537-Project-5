@@ -9,8 +9,8 @@ Emails: alshwaish@wisc.edu, sahnen@wisc.edu
 Implementation passes all tests except 10 and 11
 
 Files Altered:
-Makefile\n
-grade.c/n
+Makefile
+grade.c
 mutex.h
 proc.c
 proc.h
